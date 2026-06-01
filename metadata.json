@@ -1,0 +1,6 @@
+{
+  "name": "Roadrunner Café",
+  "description": "Premium, student-first dining destination on the UTSA campus. Serving delicious breakfast, burgers, tacos, pizzas, and organic coffee drinks with speed and value.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
